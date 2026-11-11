@@ -1,4 +1,9 @@
-# Comp Bio project template
+# Dating the ancestor of SARS-CoV-2
+
+Author: Aedan Bird
+
+A reproducible molecular clock analyisis of 24 SARS-CoV-2 genomes, for BIOL 5/6800
+
 
 This repository is a starting point for your own computational biology
 project.
